@@ -1,6 +1,6 @@
 # js_doc
 
-This is a Javascript documentation page I coded as HTML&CSS practice with freecodecamp.org
+This is a Javascript documentation page I coded as HTML&CSS practice with [freecodecamp!] (https://www.freecodecamp.org/)
 
 Watch it here: https://wolfpinz.github.io/js_doc/
 
